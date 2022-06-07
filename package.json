@@ -45,5 +45,5 @@
   "dependencies": {
     "core-js": "^3.11.0"
   },
-  "description": ""
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/q1303f67l1v15nyg?svg=true)](https://ci.appveyor.com/project/i-Popov/ahj-3)"
 }

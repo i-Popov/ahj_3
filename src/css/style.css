@@ -10,6 +10,7 @@ body {
 }
 
 .cell {
+  cursor: url("../img/cursor.png"), auto;
   border: 3px solid #579aa1;
   border-radius: 14px;
   background: #e6fff1;
